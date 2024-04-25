@@ -1,0 +1,60 @@
+.header{
+    background-color:#4e8bb4;
+    color:white;
+    height: 150px;
+    line-height: 150px;
+    font-size: 45px;
+    text-align:center ;
+    font-family: Nunito;
+}
+
+/* Navigation bar styling */
+.nav {
+    background-color: rgb(244, 255, 140);
+    padding: 5px;
+    overflow: hidden;
+}
+
+/* Navigation links styling */
+.nav a {
+    background-color: rgb(244, 255, 140);
+    padding: 20px;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.nav a:hover {
+    background-color: rgb(202, 241, 117);
+}
+.mainbody{
+    background-color: #2c7aaf;
+    color: white;
+    height: 3000px;
+    font-size:35px;
+    font-family:'Gill Sans';
+    text-align:inherit;
+    list-style-type: disc; /* Display bullet points (you can use other list types if you prefer) */
+    display: flex; /* Use flexbox layout */
+    justify-content: center; /* Center list items and bullets horizontally */
+    padding: 0; /* Remove default padding */
+    margin: 0; 
+    .smaller-ol {
+        font-size: 15px; /* Adjust the value as desired */
+    im
+    
+
+    .pics{image-orientation:align-self;}
+
+   
+}
+
+.footer{
+    
+    background-color: rgb(117, 157, 209);
+    bottom:0px;
+    right:3px;
+    left:3px;
+    height:25px;
+}
